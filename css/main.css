@@ -108,5 +108,45 @@
 	display: inline-block;
 }
 
+.app-top{
+   margin-top: 10px;
+   font-size: 18px;
+}
 
+.app-user{
+   text-align: center;
+   font-size: 18px;
+}
 
+.app-img-centrar{
+   margin-left: auto;
+   margin-right: auto;   
+}
+
+.app-justificar{
+   text-align: justify;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+
+.app-textM{
+   font-size: 12px;
+}
+
+.gl-vistas{
+   color: #33B5E5;
+   padding-right: 5px;
+   font-size: 14px !important;
+}
+
+.gl-respuestas{
+   color: #2ECC71;
+   padding-right: 5px;
+   font-size: 14px !important;
+}
+
+.gl-votos{
+   color: #F39C12;
+   padding-right: 5px;
+   font-size: 14px !important;
+}
