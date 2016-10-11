@@ -4,19 +4,109 @@
    Author's custom styles
    ========================================================================== */
 
+.navbar-personalizado{
+    background-color: #0E7AC4;
+    border-radius: 0;
+    margin-bottom: 0;
+}
 
+.link-personalizado{
+   color: white;
+   text-shadow: none;
+}
 
+.link-personalizado:hover{
+   color:white;
+}
 
+.nav-personalizado > li > a {
+   color: white;
+   text-shadow: none;
+}
 
+.nav-personalizado > li > a:hover{
+   background-color: #0E68B8;
+}
 
+.app-bar{   
+   background-color: white;
+}
 
+.app-principal{
+   background-color: #0E7AC4;
+   color: white;
+   text-align: center;
+}
 
+.app-titulo{
+   font-size: 40px;
+}
 
+.app-desc{
+   font-size: 18px;
+}
 
+.app-redes{
+   width: 90%;
+   margin:20px auto;
+}
 
+.app-sociales{
+   width: 90%;
+   margin-left: auto;
+   margin-right: auto;
+}
 
+.app-facebook{
+   width: 45%;
+   display: inline-block;
+   margin-right: 10px;
+}
 
+.app-twitter{
+   width: 45%;
+   display: inline-block;
+   margin-left: 10px;
+}
 
+.btn-facebook{
+	color: white;
+	background-color: #3e5998;
+}
+
+.btn-twitter{
+	color: white;
+	background-color: #00ACD3;
+}
+
+.btn{
+   border-radius: 0 !important;
+}
+
+.app-preguntar{
+	background-color: #3498bd;
+	border-bottom: 6px solid #eceef1;
+}
+.btn-preguntar{
+	color: white;
+	background-color: #2ecc71;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.app-datos{
+	margin-top: 10px;
+	font-size: 18px;
+	color: white;
+	padding-top: 18px;
+}
+.gl-usuario{
+	display: inline-block;
+}
+.gl-preguntas{
+	margin-left: 20px;
+	display: inline-block;
+}
 
 
 
