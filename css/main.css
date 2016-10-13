@@ -28,6 +28,10 @@
    background-color: #0E68B8;
 }
 
+.nav-personalizado > li >a:focus{
+   background-color: #000;
+}
+
 .app-bar{   
    background-color: white;
 }
@@ -174,4 +178,29 @@
    font-size:20px;
    text-align:center;
    padding:20px;
+}
+
+.app-userActive{
+   width: 120px;
+   height: 20px;
+}
+
+.app-activado{
+   width: 30px;
+   display: inline-block;
+   vertical-align: middle;
+   margin-right: 10px;
+}
+
+.app-pregunta{
+   margin-top: 20px;
+   margin-bottom: 30px;
+}
+
+.media1{
+   margin-bottom: 30px;
+}
+
+.dimension{
+   resize: none;
 }
